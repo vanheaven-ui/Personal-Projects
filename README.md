@@ -17,3 +17,9 @@ You can find the
 ### - Old version of apple.com page clone
 You can find the
     [Repo-Link](https://github.com/vanheaven-ui/apple-clone) here and the [Live-Demo-Link](https://raw.githack.com/vanheaven-ui/apple-clone/master/index.html) here
+### - The next web news page clone (renders well on mobile, tablet/laptop and desktop)
+You can find the
+    [Repo-Link](https://github.com/vanheaven-ui/thenextweb) here and the [Live-Demo-Link](https://raw.githack.com/imhilla/thenextweb/home-page/index.html) here
+### - The Newsweek home page clone (renders well on mobile, tablet/laptop and desktop)
+You can find the
+    [Repo-Link](https://github.com/vanheaven-ui/newsweek-clone) here and the [Live-Demo-Link](https://vanheaven-ui.github.io/newsweek-clone/) here
