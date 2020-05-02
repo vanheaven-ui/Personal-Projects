@@ -17,6 +17,9 @@ You can find the
 ### - Old version of apple.com page clone
 You can find the
     [Repo-Link](https://github.com/vanheaven-ui/apple-clone) here and the [Live-Demo-Link](https://raw.githack.com/vanheaven-ui/apple-clone/master/index.html) here
+### - Smashing magazine home page clone
+You can find the
+    [Repo-Link](https://github.com/vanheaven-ui/website-heat-map) here and the [Live-Demo-Link](https://raw.githack.com/vanheaven-ui/website-heat-map/master/index.html) here
 ### - The next web news page clone (renders well on mobile, tablet/laptop and desktop)
 You can find the
     [Repo-Link](https://github.com/vanheaven-ui/thenextweb) here and the [Live-Demo-Link](https://raw.githack.com/imhilla/thenextweb/home-page/index.html) here
