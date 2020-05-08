@@ -26,3 +26,6 @@ You can find the
 ### - The Newsweek home page clone (renders well on mobile, tablet/laptop and desktop)
 You can find the
     [Repo-Link](https://github.com/vanheaven-ui/newsweek-clone) here and the [Live-Demo-Link](https://vanheaven-ui.github.io/newsweek-clone/) here
+### - Hardware hub-capstone project#1 at microverse (renders well on mobile, tablet/laptop and desktop)
+You can find the
+    [Repo-Link](https://github.com/vanheaven-ui/capstone-html-css) here and the [Live-Demo-Link](https://flamboyant-yalow-75e92d.netlify.app/) here
